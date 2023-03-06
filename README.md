@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed El-gendy</h1>
 <h3 align="center">A highly motivated ITI trainee seeking for an opportunity as a Full Stack web developer using .NET in a company with a good reputation to let me use all my technical knowledge and personal skills throughout a healthy environment workplace that will add to my knowledge, Skills, and Experience day by day.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedel-gendy&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedel-gendy" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ahmedel-gendy&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedel-gendy" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedel-gendy" alt="ahmedel-gendy" /></a> </p>
 
