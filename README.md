@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed El-gendy</h1>
-<h3 align="center">A highly motivated ITI trainee seeking for an opportunity as a Full Stack web developer using .NET in a company with a good reputation to let me use all my technical knowledge and personal skills throughout a healthy environment workplace that will add to my knowledge, Skills, and Experience day by day.</h3>
+<h3 align="center">
+  Dedicated software developer with over one year of hands-on experience, specialized in .NET and Angular technologies. Passionate about creating efficient and scalable web applications and continuously enhancing my technical and personal skills. My goal is to contribute to a dynamic team in a reputable company where I can leverage my expertise and grow professionally in a supportive and innovative environment.
+</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ahmedel-gendy&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedel-gendy" /> </p>
 
